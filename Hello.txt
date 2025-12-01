@@ -1,0 +1,1 @@
+Initial commit to begin with advent of code ;d
